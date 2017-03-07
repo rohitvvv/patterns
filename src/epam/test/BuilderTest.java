@@ -1,9 +1,7 @@
 package epam.test;
 
-import static org.junit.Assert.*;
-
-import org.junit.Test;
-
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
 import epam.designPattern.builder.User;
 
 public class BuilderTest {

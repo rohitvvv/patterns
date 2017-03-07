@@ -1,11 +1,10 @@
 package epam.test;
 
-import org.junit.Test;
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
 import epam.designPattern.factory.Computer;
-import epam.designPattern.factory.ComputerFactory;;
+import epam.designPattern.factory.ComputerFactory;
 public class FactoryTest {
-
 	@Test
 	public void factoryTest() {
 		Computer pc = ComputerFactory.getComputer("PC");
