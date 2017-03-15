@@ -37,3 +37,8 @@
 * Strategy
 * Decorator
 * Factory method
+ 
+
+##References
+* Source Making
+* Pluralsight course on Design Patterns

@@ -13,3 +13,8 @@ the internal structure
 * Each Iterator implementation may traverse the aggregate in a different fashion
 * Iterators keep track of their own traversal state
 
+ 
+ 
+##References
+* Source Making
+* Pluralsight course on Design Patterns
